@@ -1,126 +1,45 @@
-🏥 Hospital Performance Analytics
+# Hospital Performance Analytics
 
-📌 Project Overview
+## Project Overview
 
-Hospital Performance Analytics is a synthetic healthcare data analysis project designed to evaluate hospital operations, financial performance, patient experience, and clinical outcomes.
+This project analyzes synthetic hospital data to evaluate patient volume, hospital operations, financial performance, patient satisfaction, readmissions, and clinical outcomes.
 
-The project demonstrates how healthcare data can be cleaned, analyzed, and transformed into meaningful performance insights using Microsoft Excel.
+## Tools Used
 
-🎯 Business Objective
+- Microsoft Excel
+- Pivot Tables
+- Pivot Charts
+- Excel formulas
+- Data Cleaning
+- Data Analysis
+- Dashboard Design
 
-The objective is to help hospital management understand:
+## Key Performance Indicators
 
-* Patient volume and admission trends
-* Department performance
-* Hospital revenue and treatment costs
-* Average length of stay
-* Patient satisfaction
-* Readmission patterns
-* Patient outcomes
-* Mortality trends
+- Total Patients
+- Total Revenue
+- Average Length of Stay
+- Average Treatment Cost
+- Patient Satisfaction
+- Readmission Rate
+- Mortality Rate
+- Department Performance
 
-🛠️ Tools & Skills
+## Analysis Areas
 
-* Microsoft Excel
-* Data Cleaning
-* Excel Formulas
-* Pivot Tables
-* Pivot Charts
-* KPI Analysis
-* Dashboard Development
-* Healthcare Analytics
+1. Patient admissions
+2. Department performance
+3. Monthly hospital trends
+4. Treatment costs and revenue
+5. Length of stay
+6. Patient satisfaction
+7. Readmission analysis
+8. Patient outcomes
 
-📊 Key KPIs
+## Dataset
 
-KPI	Description
-Total Patients	Total number of hospital patients
-Total Revenue	Revenue generated from patient treatments
-Average Length of Stay	Average number of days patients stay
-Average Treatment Cost	Average treatment cost per patient
-Patient Satisfaction	Average patient satisfaction score
-Readmission Rate	Percentage of patients readmitted
-Mortality Rate	Percentage of deceased outcomes
+The dataset is synthetic and created for educational and portfolio purposes. It does not contain real patient information.
 
-🔎 Analysis Performed
+## Objective
 
-Patient Analytics
-
-* Patients by department
-* Patients by age group
-* Gender distribution
-* Admission type analysis
-
-Operational Analytics
-
-* Average length of stay
-* Department workload
-* Monthly admission trends
-* Hospital utilization indicators
-
-Financial Analytics
-
-* Revenue by department
-* Treatment cost analysis
-* Average revenue per patient
-
-Quality Analytics
-
-* Patient satisfaction
-* Readmission rate
-* Patient outcomes
-* Mortality rate
-
-📈 Dashboard
-
-The Excel dashboard provides an interactive management-level view of hospital performance using KPI cards, charts, and department/monthly analysis.
-
-📁 Project Structure
-
-Hospital_Performance_Analytics/
-│
-├── README.md
-│
-├── data/
-│   └── Hospital_Performance_Analytics.csv
-│
-├── Excel/
-│   └── Hospital_Performance_Analytics.xlsx
-│
-├── Dashboard/
-│   └── Hospital_Performance_Dashboard.png
-│
-└── Screenshots/
-    └── Dashboard screenshots
-
-📌 Dataset
-
-The dataset is completely synthetic and contains no real patient information.
-
-It is intended for educational, portfolio, and healthcare analytics demonstration purposes.
-
-💡 Expected Business Insights
-
-The completed analysis will identify:
-
-* High-performing and underperforming departments
-* Departments with longer patient stays
-* Revenue-generating departments
-* Areas with higher readmission rates
-* Patient satisfaction patterns
-* Monthly changes in hospital activity
-
-👨‍💻 Skills Demonstrated
-
-This project demonstrates practical skills in:
-
-Healthcare Data Analysis → Excel → Data Cleaning → KPI Development → Pivot Analysis → Dashboard Development → Business Insights
-
-🚀 Future Improvements
-
-The project can be extended using:
-
-* SQL
-* Power BI
-* Python
-* Healthcare predictive analytics
-* AI-assisted healthcare insights
+The objective is to demonstrate how healthcare data can be transformed into actionable insights for hospital management and operational decision-making.
